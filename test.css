@@ -1,0 +1,49 @@
+body{
+    display: inline-flex ;
+    /*background-color: rgb(62, 49, 255);*/
+    background-image: url(exams.jpg);
+}
+div{
+    background-color:  rgb(255, 255, 255);
+    width: 500px;
+    height: 500px;
+    margin-top: 150px;
+    border-radius: 2px;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: 150px;
+    border-radius: 2px;
+}
+h1{
+    text-align: center;
+}
+input{
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 440px;
+    text-decoration: none;    
+}
+button{
+    padding: 10px;
+    width: 440px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+button{
+    width: 460px;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+video{
+    width: 500px;
+    height: 100%;
+    margin-top: 150px;
+    margin-left: 400px;
+    
+}
+
+
